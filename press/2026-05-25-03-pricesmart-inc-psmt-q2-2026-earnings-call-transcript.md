@@ -1,7 +1,9 @@
 ---
 title: PriceSmart, Inc. (PSMT) Q2 2026 Earnings Call Transcript
 url: https://seekingalpha.com/article/4889590-pricesmart-inc-psmt-q2-2026-earnings-call-transcript
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PriceSmart" press release artificial intelligence'
 position: 3
 source: serpapi-google

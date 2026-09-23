@@ -1,7 +1,9 @@
 ---
 title: PriceSmart, Inc. to Streamline Pricing and Promotion ...
 url: https://www.dcvelocity.com/articles/59591-pricesmart-inc-to-streamline-pricing-and-promotion-planning-with-relex-solutions
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PriceSmart" press release artificial intelligence'
 position: 5
 source: serpapi-google

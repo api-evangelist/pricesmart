@@ -1,7 +1,9 @@
 ---
 title: 'Gray Media Vs Pricesmart: Which is a Better Buy? AI Stock ...'
 url: https://danelfin.com/stocks/GTN-gray-media-vs-PSMT-pricesmart-compare
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PriceSmart" press release artificial intelligence'
 position: 4
 source: serpapi-google
